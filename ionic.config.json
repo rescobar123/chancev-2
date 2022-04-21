@@ -1,0 +1,8 @@
+{
+  "name": "chancev2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "d1366ed3"
+}
